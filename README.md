@@ -4,21 +4,7 @@ An end-to-end **IMDb Movie Analytics project** using Python for data cleaning, e
 
 The project analyzes **19,808 movies** spanning from **1894 to 2022**, uncovering trends across movie releases, genres, IMDb ratings, runtime, audience votes, gross income, directors, actors, and movie certificates.
 
----
 
-## 📊 Power BI Dashboard
-
-The Power BI dashboard transforms the cleaned IMDb dataset into an interactive movie analytics report.
-
-### Dashboard Preview
-
-# 🎬 IMDb Movie Analytics | Python & Power BI
-
-An end-to-end **IMDb Movie Analytics project** using Python for data cleaning, exploratory data analysis, statistical analysis, and Power BI for interactive dashboarding.
-
-The project analyzes **19,808 movies** spanning from **1894 to 2022**, uncovering trends across movie releases, genres, IMDb ratings, runtime, audience votes, gross income, directors, actors, and movie certificates.
-
----
 
 ## 📊 Power BI Dashboard
 
